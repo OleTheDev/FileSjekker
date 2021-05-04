@@ -1,0 +1,10 @@
+C:\Users\ole\source\repos\FileMatcher\FileMatcher\bin\Debug\FileMatcher.exe.config
+C:\Users\ole\source\repos\FileMatcher\FileMatcher\bin\Debug\FileMatcher.exe
+C:\Users\ole\source\repos\FileMatcher\FileMatcher\bin\Debug\FileMatcher.pdb
+C:\Users\ole\source\repos\FileMatcher\FileMatcher\obj\Debug\FileMatcher.csprojAssemblyReference.cache
+C:\Users\ole\source\repos\FileMatcher\FileMatcher\obj\Debug\FileMatcher.Form1.resources
+C:\Users\ole\source\repos\FileMatcher\FileMatcher\obj\Debug\FileMatcher.Properties.Resources.resources
+C:\Users\ole\source\repos\FileMatcher\FileMatcher\obj\Debug\FileMatcher.csproj.GenerateResource.cache
+C:\Users\ole\source\repos\FileMatcher\FileMatcher\obj\Debug\FileMatcher.csproj.CoreCompileInputs.cache
+C:\Users\ole\source\repos\FileMatcher\FileMatcher\obj\Debug\FileMatcher.exe
+C:\Users\ole\source\repos\FileMatcher\FileMatcher\obj\Debug\FileMatcher.pdb

@@ -1,0 +1,8 @@
+
+C:\DumpStack.log.tmp
+C:\esea_match_16463879.dem
+C:\esea_match_16483113.dem
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\Photoshop_Set-Up.exe
+C:\swapfile.sys
